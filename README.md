@@ -15,6 +15,8 @@ Aqui está o nosso back-end os nossos ingredientes estão prontos e misturados p
 
 O mais importante aqui é se divertir em fazer o que se gosta. Então sorria sempre pois tudo passa..
 
+![Captura de tela em 2020-04-28 20-54-57](https://user-images.githubusercontent.com/20192309/80549121-c3b6f780-8992-11ea-9cc7-3c63f19689c8.png)
+
 ## Versão
 
 <a href="https://nodejs.org/pt/"> NodeJS 12.16.2 </a>
