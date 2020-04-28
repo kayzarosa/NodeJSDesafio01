@@ -7,6 +7,14 @@
 # :rocket: Desafio 02: Conceitos do NodeJS
 > Se divirta criando os seus repositórios.
 
+## Sobre o desafio
+
+Nesse desafio apreendemos conceitos básicos de NodeJS a como trabalhar com rotas, manipular os dados enviados e a como armazenar e manipular arrays. Nele criamos repositórios para que possa ser listado, cadastrado, alterado, excluido e receber os likes.
+
+Aqui está o nosso back-end os nossos ingredientes estão prontos e misturados para nos mostrar uma receita maravilhosa rsrsr...
+
+O mais importante aqui é se divertir em fazer o que se gosta. Então sorria sempre pois tudo passa..
+
 ## Versão
 
 <a href="https://nodejs.org/pt/"> NodeJS 12.16.2 </a>
